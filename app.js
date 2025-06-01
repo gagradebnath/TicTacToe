@@ -7,6 +7,8 @@ let ok = document.querySelector("#ok");
 let filled = 0;
 let input = document.querySelectorAll(".input");
 
+fuck you 
+
 let pX = "Player 2";
 let pO = "Player 1";
 ok.addEventListener("click", () => {
